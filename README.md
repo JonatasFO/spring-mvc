@@ -6,6 +6,6 @@ Esse projeto tem como obejtivo colocar em pratica as boas praticas do Spring MVC
 
 ## Técnologias utilizadas
 
-Spring Boot, Spring MVC, Thymeleaf, Bootstrap
+Spring Boot, Spring Data, Spring MVC, Thymeleaf, Bootstrap
 
 *Como view estamos usando o Thymeleaf
